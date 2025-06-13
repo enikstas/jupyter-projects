@@ -1,4 +1,3 @@
-# jupyter-projects
 # Data Cleaning Project
 
 ## Overview
