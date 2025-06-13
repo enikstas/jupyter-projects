@@ -1,0 +1,478 @@
+customer_id,date,product,quantity,unit_price,payment_method,amount,amount_check,year,month
+C063,2025-07-28,Phone (budget),1.0,300.0,credit card,300.0,300.0,2025,7
+C021,2025-07-30,Phone (budget),2.0,300.0,online_payment,600.0,600.0,2025,7
+C005,2025-06-15,Smartwatch (premium),1.0,350.0,online_payment,350.0,350.0,2025,6
+C066,2025-07-13,Headphones (medium),3.0,100.0,online_payment,300.0,300.0,2025,7
+C069,2025-07-31,Phone (premium),3.0,800.0,credit card,2400.0,2400.0,2025,7
+C076,2025-07-11,Tablet (premium),2.0,600.0,credit card,1200.0,1200.0,2025,7
+C033,2025-06-28,Headphones (premium),1.0,200.0,online_payment,200.0,200.0,2025,6
+C043,2025-07-30,Tablet (medium),3.0,350.0,cash,1050.0,1050.0,2025,7
+C003,2025-07-20,Tablet (premium),1.0,600.0,credit card,600.0,600.0,2025,7
+C100,2025-06-29,Phone (budget),2.0,300.0,online_payment,600.0,600.0,2025,6
+C076,2025-07-02,Smartwatch (medium),3.0,200.0,credit card,600.0,600.0,2025,7
+C032,2025-07-14,Phone (budget),2.0176600441501105,300.0,cash,605.2980132450332,605.2980132450332,2025,7
+C009,2025-07-23,Smartwatch (premium),2.0,350.0,credit card,700.0,700.0,2025,7
+C064,2025-07-17,Tablet (medium),3.0,350.0,credit card,1050.0,1050.0,2025,7
+C050,2025-07-05,Tablet (premium),2.0,600.0,credit card,1200.0,1200.0,2025,7
+C043,2025-06-04,Tablet (medium),2.0,350.0,cash,700.0,700.0,2025,6
+C015,2025-07-28,Phone (medium),3.0,500.0,cash,1500.0,1500.0,2025,7
+C099,2025-08-01,Smartwatch (budget),3.0,100.0,cash,300.0,300.0,2025,8
+C081,2025-06-27,Headphones (premium),2.0176600441501105,200.0,cash,403.5320088300221,403.5320088300221,2025,6
+C069,2025-07-29,Laptop (medium),2.0,1000.0,online_payment,2000.0,2000.0,2025,7
+C064,2025-07-24,Phone (budget),3.0,300.0,credit card,900.0,900.0,2025,7
+C087,2025-08-13,Laptop (premium),1.0,1500.0,cash,1500.0,1500.0,2025,8
+C023,2025-06-22,Smartwatch (premium),1.0,350.0,credit card,350.0,350.0,2025,6
+C033,2025-06-17,Tablet (budget),1.0,200.0,credit card,200.0,200.0,2025,6
+C045,2025-06-10,Smartwatch (budget),3.0,100.0,cash,300.0,300.0,2025,6
+C054,2025-07-28,Headphones (medium),2.0,100.0,cash,200.0,200.0,2025,7
+C019,2025-06-17,Laptop (medium),3.0,1000.0,cash,3000.0,3000.0,2025,6
+C039,2025-06-23,Tablet (medium),2.0,350.0,cash,700.0,700.0,2025,6
+C082,2025-08-03,Smartwatch (budget),1.0,100.0,credit card,100.0,100.0,2025,8
+C043,2025-08-31,Tablet (budget),2.0176600441501105,200.0,cash,403.5320088300221,403.5320088300221,2025,8
+C044,2025-07-16,Phone (medium),1.0,500.0,cash,500.0,500.0,2025,7
+C081,2025-07-12,Laptop (budget),1.0,600.0,online_payment,600.0,600.0,2025,7
+C072,2025-07-29,Laptop (medium),2.0176600441501105,1000.0,credit card,2017.6600441501105,2017.6600441501105,2025,7
+C053,2025-08-17,Tablet (medium),2.0,350.0,cash,700.0,700.0,2025,8
+C010,2025-06-10,Smartwatch (medium),3.0,200.0,credit card,600.0,600.0,2025,6
+C054,2025-06-14,Phone (premium),1.0,800.0,credit card,800.0,800.0,2025,6
+C080,2025-08-05,Laptop (budget),1.0,600.0,online_payment,600.0,600.0,2025,8
+C100,2025-06-30,Phone (medium),1.0,500.0,credit card,500.0,500.0,2025,6
+C014,2025-08-18,Phone (premium),3.0,800.0,cash,2400.0,2400.0,2025,8
+C029,2025-08-05,Laptop (budget),3.0,600.0,cash,1800.0,1800.0,2025,8
+C076,2025-06-16,Smartwatch (budget),3.0,100.0,online_payment,300.0,300.0,2025,6
+C055,2025-08-19,Laptop (medium),1.0,1000.0,credit card,1000.0,1000.0,2025,8
+C017,2025-08-01,Tablet (premium),3.0,600.0,cash,1800.0,1800.0,2025,8
+C034,2025-07-22,Tablet (medium),1.0,350.0,credit card,350.0,350.0,2025,7
+C027,2025-07-23,Laptop (budget),3.0,600.0,online_payment,1800.0,1800.0,2025,7
+C039,2025-08-16,Laptop (medium),2.0,1000.0,credit card,2000.0,2000.0,2025,8
+C057,2025-08-05,Smartwatch (premium),2.0,350.0,online_payment,700.0,700.0,2025,8
+C034,2025-08-31,Headphones (medium),2.0,454.35729847494554,credit card,908.7145969498911,908.7145969498911,2025,8
+C028,2025-07-06,Tablet (budget),1.0,200.0,credit card,200.0,200.0,2025,7
+C062,2025-07-16,Phone (budget),3.0,300.0,cash,900.0,900.0,2025,7
+C085,2025-08-03,Smartwatch (budget),3.0,100.0,credit card,300.0,300.0,2025,8
+C027,2025-06-06,Headphones (medium),2.0,100.0,cash,200.0,200.0,2025,6
+C033,2025-08-21,Phone (budget),1.0,300.0,credit card,300.0,300.0,2025,8
+C073,2025-06-16,Laptop (budget),3.0,454.35729847494554,credit card,1363.0718954248366,1363.0718954248366,2025,6
+C011,2025-07-30,Phone (medium),2.0,500.0,online_payment,1000.0,1000.0,2025,7
+C039,2025-06-08,Tablet (premium),1.0,600.0,online_payment,600.0,600.0,2025,6
+C002,2025-06-26,Phone (medium),3.0,500.0,credit card,1500.0,1500.0,2025,6
+C004,2025-08-07,Headphones (medium),1.0,100.0,credit card,100.0,100.0,2025,8
+C072,2025-07-06,Phone (premium),1.0,800.0,credit card,800.0,800.0,2025,7
+C059,2025-08-25,Tablet (medium),2.0,350.0,credit card,700.0,700.0,2025,8
+C001,2025-08-16,Headphones (budget),1.0,50.0,cash,50.0,50.0,2025,8
+C043,2025-07-30,Phone (medium),2.0,500.0,credit card,1000.0,1000.0,2025,7
+C057,2025-08-14,Smartwatch (premium),2.0,350.0,online_payment,700.0,700.0,2025,8
+C096,2025-07-23,Tablet (medium),2.0,350.0,online_payment,700.0,700.0,2025,7
+C090,2025-07-01,Headphones (medium),3.0,100.0,online_payment,300.0,300.0,2025,7
+C087,2025-06-17,Headphones (premium),2.0,200.0,online_payment,400.0,400.0,2025,6
+C058,2025-08-21,Headphones (medium),3.0,100.0,credit card,300.0,300.0,2025,8
+C012,2025-07-18,Laptop (budget),2.0,600.0,online_payment,1200.0,1200.0,2025,7
+C099,2025-06-07,Tablet (budget),2.0,200.0,online_payment,400.0,400.0,2025,6
+C089,2025-06-07,Headphones (premium),2.0,200.0,online_payment,400.0,400.0,2025,6
+C053,2025-08-08,Smartwatch (budget),3.0,100.0,credit card,300.0,300.0,2025,8
+C060,2025-06-13,Headphones (premium),3.0,200.0,cash,600.0,600.0,2025,6
+C053,2025-07-01,Headphones (premium),1.0,200.0,credit card,200.0,200.0,2025,7
+C003,2025-06-17,Smartwatch (premium),2.0,350.0,cash,700.0,700.0,2025,6
+C057,2025-08-20,Phone (premium),3.0,800.0,cash,2400.0,2400.0,2025,8
+C033,2025-07-21,Smartwatch (premium),2.0176600441501105,350.0,online_payment,706.1810154525386,706.1810154525386,2025,7
+C097,2025-08-03,Headphones (medium),1.0,100.0,cash,100.0,100.0,2025,8
+C058,2025-08-05,Tablet (medium),1.0,350.0,credit card,350.0,350.0,2025,8
+C085,2025-06-16,Tablet (medium),2.0,350.0,cash,700.0,700.0,2025,6
+C006,2025-06-30,Tablet (premium),3.0,600.0,cash,1800.0,1800.0,2025,6
+C043,2025-07-01,Phone (premium),3.0,800.0,online_payment,2400.0,2400.0,2025,7
+C013,2025-07-12,Headphones (budget),2.0,50.0,credit card,100.0,100.0,2025,7
+C013,2025-06-09,Headphones (budget),2.0,50.0,credit card,100.0,100.0,2025,6
+C025,2025-08-06,Headphones (medium),1.0,100.0,cash,100.0,100.0,2025,8
+C080,2025-06-27,Headphones (medium),1.0,100.0,credit card,100.0,100.0,2025,6
+C043,2025-08-12,Laptop (premium),3.0,1500.0,online_payment,4500.0,4500.0,2025,8
+C091,2025-07-31,Tablet (medium),3.0,350.0,credit card,1050.0,1050.0,2025,7
+C020,2025-08-12,Phone (medium),2.0,500.0,cash,1000.0,1000.0,2025,8
+C067,2025-07-05,Laptop (budget),3.0,600.0,cash,1800.0,1800.0,2025,7
+C051,2025-08-27,Smartwatch (medium),1.0,200.0,credit card,200.0,200.0,2025,8
+C024,2025-07-11,Phone (medium),3.0,500.0,credit card,1500.0,1500.0,2025,7
+C075,2025-07-22,Headphones (budget),1.0,50.0,credit card,50.0,50.0,2025,7
+C011,2025-08-12,Tablet (budget),1.0,200.0,credit card,200.0,200.0,2025,8
+C043,2025-06-02,Headphones (premium),2.0,200.0,credit card,400.0,400.0,2025,6
+C094,2025-08-05,Smartwatch (budget),3.0,100.0,cash,300.0,300.0,2025,8
+C015,2025-08-01,Smartwatch (budget),2.0,100.0,online_payment,200.0,200.0,2025,8
+C035,2025-08-14,Phone (budget),1.0,300.0,cash,300.0,300.0,2025,8
+C020,2025-06-18,Laptop (budget),1.0,600.0,online_payment,600.0,600.0,2025,6
+C005,2025-07-04,Headphones (premium),1.0,200.0,credit card,200.0,200.0,2025,7
+C008,2025-06-15,Tablet (medium),3.0,350.0,cash,1050.0,1050.0,2025,6
+C016,2025-07-18,Tablet (budget),3.0,200.0,online_payment,600.0,600.0,2025,7
+C058,2025-08-13,Phone (medium),1.0,500.0,cash,500.0,500.0,2025,8
+C010,2025-08-14,Smartwatch (medium),2.0,200.0,cash,400.0,400.0,2025,8
+C043,2025-06-04,Phone (medium),3.0,500.0,cash,1500.0,1500.0,2025,6
+C040,2025-06-25,Laptop (medium),2.0,1000.0,credit card,2000.0,2000.0,2025,6
+C031,2025-08-19,Phone (medium),2.0,500.0,cash,1000.0,1000.0,2025,8
+C061,2025-07-21,Laptop (budget),1.0,600.0,credit card,600.0,600.0,2025,7
+C088,2025-07-28,Phone (premium),2.0,454.35729847494554,cash,908.7145969498911,908.7145969498911,2025,7
+C070,2025-07-10,Smartwatch (medium),1.0,200.0,cash,200.0,200.0,2025,7
+C018,2025-08-12,Phone (budget),1.0,300.0,online_payment,300.0,300.0,2025,8
+C055,2025-07-24,Phone (premium),1.0,800.0,cash,800.0,800.0,2025,7
+C069,2025-07-18,Phone (premium),2.0,800.0,credit card,1600.0,1600.0,2025,7
+C003,2025-07-12,Smartwatch (premium),1.0,350.0,credit card,350.0,350.0,2025,7
+C100,2025-08-28,Laptop (premium),2.0,1500.0,cash,3000.0,3000.0,2025,8
+C014,2025-08-27,Headphones (medium),1.0,100.0,credit card,100.0,100.0,2025,8
+C043,2025-08-22,Headphones (premium),2.0,200.0,credit card,400.0,400.0,2025,8
+C096,2025-08-10,Tablet (budget),2.0,454.35729847494554,cash,908.7145969498911,908.7145969498911,2025,8
+C029,2025-07-15,Headphones (premium),3.0,200.0,online_payment,600.0,600.0,2025,7
+C082,2025-06-15,Laptop (budget),1.0,600.0,online_payment,600.0,600.0,2025,6
+C034,2025-08-25,Laptop (medium),2.0,1000.0,online_payment,2000.0,2000.0,2025,8
+C045,2025-06-08,Phone (premium),3.0,800.0,credit card,2400.0,2400.0,2025,6
+C071,2025-08-26,Laptop (budget),3.0,600.0,online_payment,1800.0,1800.0,2025,8
+C044,2025-08-08,Tablet (premium),3.0,600.0,credit card,1800.0,1800.0,2025,8
+C079,2025-08-02,Laptop (premium),1.0,1500.0,credit card,1500.0,1500.0,2025,8
+C096,2025-08-03,Headphones (budget),3.0,50.0,cash,150.0,150.0,2025,8
+C010,2025-06-03,Laptop (premium),1.0,1500.0,credit card,1500.0,1500.0,2025,6
+C068,2025-07-30,Laptop (budget),3.0,600.0,credit card,1800.0,1800.0,2025,7
+C004,2025-07-24,Tablet (budget),3.0,200.0,credit card,600.0,600.0,2025,7
+C072,2025-06-27,Smartwatch (budget),1.0,100.0,cash,100.0,100.0,2025,6
+C043,2025-06-29,Laptop (budget),2.0,600.0,cash,1200.0,1200.0,2025,6
+C043,2025-06-13,Phone (budget),2.0,300.0,cash,600.0,600.0,2025,6
+C048,2025-06-13,Smartwatch (budget),2.0,100.0,cash,200.0,200.0,2025,6
+C038,2025-07-20,Headphones (medium),1.0,100.0,credit card,100.0,100.0,2025,7
+C043,2025-08-22,Tablet (premium),1.0,600.0,cash,600.0,600.0,2025,8
+C022,2025-07-08,Phone (medium),3.0,500.0,online_payment,1500.0,1500.0,2025,7
+C023,2025-06-10,Smartwatch (budget),3.0,100.0,credit card,300.0,300.0,2025,6
+C046,2025-08-13,Headphones (premium),2.0,200.0,credit card,400.0,400.0,2025,8
+C073,2025-07-31,Phone (medium),1.0,500.0,online_payment,500.0,500.0,2025,7
+C075,2025-07-09,Smartwatch (premium),1.0,350.0,online_payment,350.0,350.0,2025,7
+C043,2025-07-06,Phone (budget),2.0,300.0,credit card,600.0,600.0,2025,7
+C097,2025-07-05,Headphones (budget),1.0,50.0,credit card,50.0,50.0,2025,7
+C035,2025-08-26,Headphones (budget),2.0,50.0,online_payment,100.0,100.0,2025,8
+C094,2025-07-27,Headphones (medium),2.0,100.0,cash,200.0,200.0,2025,7
+C096,2025-06-06,Laptop (budget),2.0,600.0,cash,1200.0,1200.0,2025,6
+C001,2025-08-04,Phone (budget),2.0,300.0,cash,600.0,600.0,2025,8
+C033,2025-06-25,Smartwatch (premium),2.0176600441501105,350.0,credit card,706.1810154525386,706.1810154525386,2025,6
+C006,2025-07-10,Phone (medium),3.0,500.0,cash,1500.0,1500.0,2025,7
+C039,2025-08-16,Phone (premium),3.0,800.0,credit card,2400.0,2400.0,2025,8
+C046,2025-07-07,Tablet (budget),2.0176600441501105,200.0,credit card,403.5320088300221,403.5320088300221,2025,7
+C075,2025-08-11,Headphones (budget),1.0,50.0,credit card,50.0,50.0,2025,8
+C077,2025-06-09,Tablet (premium),1.0,454.35729847494554,cash,454.35729847494554,454.35729847494554,2025,6
+C049,2025-06-23,Tablet (medium),1.0,350.0,cash,350.0,350.0,2025,6
+C021,2025-07-18,Laptop (medium),1.0,1000.0,credit card,1000.0,1000.0,2025,7
+C067,2025-06-23,Headphones (budget),1.0,50.0,online_payment,50.0,50.0,2025,6
+C019,2025-07-10,Smartwatch (budget),1.0,100.0,cash,100.0,100.0,2025,7
+C033,2025-08-27,Laptop (budget),3.0,600.0,cash,1800.0,1800.0,2025,8
+C043,2025-06-07,Tablet (medium),2.0,350.0,cash,700.0,700.0,2025,6
+C095,2025-08-31,Smartwatch (medium),1.0,200.0,cash,200.0,200.0,2025,8
+C060,2025-07-06,Headphones (budget),2.0176600441501105,50.0,credit card,100.88300220750553,100.88300220750553,2025,7
+C086,2025-08-20,Tablet (premium),3.0,600.0,cash,1800.0,1800.0,2025,8
+C052,2025-08-19,Phone (medium),2.0,500.0,credit card,1000.0,1000.0,2025,8
+C027,2025-07-21,Laptop (medium),3.0,1000.0,cash,3000.0,3000.0,2025,7
+C022,2025-06-24,Phone (medium),3.0,500.0,cash,1500.0,1500.0,2025,6
+C022,2025-08-14,Tablet (medium),2.0,350.0,credit card,700.0,700.0,2025,8
+C065,2025-06-28,Headphones (medium),3.0,100.0,cash,300.0,300.0,2025,6
+C043,2025-08-10,Laptop (medium),3.0,1000.0,credit card,3000.0,3000.0,2025,8
+C054,2025-06-17,Phone (medium),3.0,500.0,cash,1500.0,1500.0,2025,6
+C029,2025-06-05,Headphones (budget),2.0,50.0,credit card,100.0,100.0,2025,6
+C012,2025-06-18,Laptop (premium),2.0176600441501105,1500.0,credit card,3026.4900662251657,3026.4900662251657,2025,6
+C013,2025-07-24,Smartwatch (medium),2.0,200.0,online_payment,400.0,400.0,2025,7
+C020,2025-08-07,Tablet (medium),3.0,350.0,cash,1050.0,1050.0,2025,8
+C045,2025-07-09,Tablet (medium),1.0,350.0,cash,350.0,350.0,2025,7
+C004,2025-07-13,Laptop (medium),2.0,1000.0,cash,2000.0,2000.0,2025,7
+C043,2025-08-19,Tablet (medium),1.0,350.0,credit card,350.0,350.0,2025,8
+C092,2025-08-30,Tablet (budget),1.0,454.35729847494554,credit card,454.35729847494554,454.35729847494554,2025,8
+C070,2025-07-26,Smartwatch (premium),2.0,350.0,cash,700.0,700.0,2025,7
+C100,2025-07-06,Tablet (medium),3.0,350.0,cash,1050.0,1050.0,2025,7
+C027,2025-08-19,Phone (medium),2.0,500.0,cash,1000.0,1000.0,2025,8
+C028,2025-08-27,Headphones (medium),1.0,100.0,online_payment,100.0,100.0,2025,8
+C043,2025-07-28,Laptop (budget),2.0,600.0,credit card,1200.0,1200.0,2025,7
+C038,2025-08-05,Laptop (medium),3.0,1000.0,cash,3000.0,3000.0,2025,8
+C012,2025-06-18,Laptop (medium),3.0,1000.0,online_payment,3000.0,3000.0,2025,6
+C043,2025-08-26,Laptop (budget),2.0,600.0,cash,1200.0,1200.0,2025,8
+C012,2025-07-12,Tablet (medium),2.0,350.0,online_payment,700.0,700.0,2025,7
+C049,2025-07-17,Smartwatch (premium),2.0,350.0,credit card,700.0,700.0,2025,7
+C001,2025-07-14,Phone (premium),2.0,800.0,credit card,1600.0,1600.0,2025,7
+C091,2025-08-19,Headphones (budget),1.0,50.0,online_payment,50.0,50.0,2025,8
+C090,2025-08-02,Tablet (budget),2.0,200.0,online_payment,400.0,400.0,2025,8
+C007,2025-08-22,Headphones (medium),3.0,100.0,credit card,300.0,300.0,2025,8
+C096,2025-08-07,Headphones (premium),2.0,200.0,cash,400.0,400.0,2025,8
+C052,2025-07-06,Headphones (budget),2.0,50.0,credit card,100.0,100.0,2025,7
+C024,2025-08-04,Tablet (medium),1.0,454.35729847494554,cash,454.35729847494554,454.35729847494554,2025,8
+C023,2025-07-17,Laptop (budget),1.0,600.0,credit card,600.0,600.0,2025,7
+C061,2025-06-12,Phone (budget),2.0,300.0,cash,600.0,600.0,2025,6
+C049,2025-07-13,Tablet (budget),2.0,200.0,online_payment,400.0,400.0,2025,7
+C043,2025-07-24,Headphones (premium),2.0,200.0,cash,400.0,400.0,2025,7
+C089,2025-08-26,Smartwatch (budget),1.0,100.0,cash,100.0,100.0,2025,8
+C076,2025-07-16,Phone (premium),3.0,800.0,credit card,2400.0,2400.0,2025,7
+C097,2025-06-03,Headphones (medium),2.0,100.0,cash,200.0,200.0,2025,6
+C070,2025-08-15,Laptop (medium),3.0,1000.0,cash,3000.0,3000.0,2025,8
+C073,2025-07-03,Headphones (budget),1.0,50.0,online_payment,50.0,50.0,2025,7
+C084,2025-07-24,Laptop (premium),2.0,1500.0,credit card,3000.0,3000.0,2025,7
+C043,2025-08-10,Laptop (budget),1.0,600.0,credit card,600.0,600.0,2025,8
+C002,2025-06-29,Phone (budget),3.0,300.0,credit card,900.0,900.0,2025,6
+C068,2025-07-04,Phone (medium),3.0,500.0,credit card,1500.0,1500.0,2025,7
+C071,2025-06-23,Phone (budget),1.0,300.0,cash,300.0,300.0,2025,6
+C039,2025-07-09,Phone (medium),1.0,500.0,online_payment,500.0,500.0,2025,7
+C096,2025-08-18,Headphones (budget),2.0,454.35729847494554,online_payment,908.7145969498911,908.7145969498911,2025,8
+C038,2025-08-22,Headphones (budget),1.0,50.0,cash,50.0,50.0,2025,8
+C046,2025-07-15,Headphones (premium),2.0,454.35729847494554,cash,908.7145969498911,908.7145969498911,2025,7
+C095,2025-07-26,Laptop (budget),3.0,600.0,cash,1800.0,1800.0,2025,7
+C075,2025-08-15,Smartwatch (premium),1.0,350.0,cash,350.0,350.0,2025,8
+C098,2025-07-21,Smartwatch (premium),3.0,350.0,credit card,1050.0,1050.0,2025,7
+C014,2025-06-04,Smartwatch (medium),1.0,200.0,credit card,200.0,200.0,2025,6
+C036,2025-07-17,Smartwatch (premium),3.0,350.0,cash,1050.0,1050.0,2025,7
+C036,2025-06-05,Phone (medium),3.0,500.0,online_payment,1500.0,1500.0,2025,6
+C015,2025-06-24,Tablet (budget),1.0,200.0,cash,200.0,200.0,2025,6
+C053,2025-07-25,Laptop (premium),2.0,1500.0,credit card,3000.0,3000.0,2025,7
+C091,2025-06-27,Headphones (premium),1.0,200.0,credit card,200.0,200.0,2025,6
+C033,2025-07-16,Headphones (medium),1.0,100.0,credit card,100.0,100.0,2025,7
+C087,2025-08-06,Headphones (medium),2.0,100.0,cash,200.0,200.0,2025,8
+C051,2025-08-13,Headphones (budget),2.0176600441501105,50.0,cash,100.88300220750553,100.88300220750553,2025,8
+C064,2025-06-30,Smartwatch (budget),3.0,100.0,cash,300.0,300.0,2025,6
+C004,2025-08-15,Laptop (premium),3.0,1500.0,credit card,4500.0,4500.0,2025,8
+C043,2025-08-10,Phone (premium),2.0,800.0,online_payment,1600.0,1600.0,2025,8
+C043,2025-08-03,Laptop (budget),1.0,600.0,cash,600.0,600.0,2025,8
+C003,2025-07-29,Phone (medium),2.0,454.35729847494554,online_payment,908.7145969498911,908.7145969498911,2025,7
+C039,2025-08-01,Smartwatch (medium),2.0176600441501105,200.0,credit card,403.5320088300221,403.5320088300221,2025,8
+C007,2025-06-30,Laptop (budget),2.0,600.0,credit card,1200.0,1200.0,2025,6
+C030,2025-06-08,Laptop (medium),2.0,1000.0,online_payment,2000.0,2000.0,2025,6
+C060,2025-07-16,Headphones (premium),1.0,200.0,online_payment,200.0,200.0,2025,7
+C083,2025-07-16,Laptop (medium),2.0,1000.0,online_payment,2000.0,2000.0,2025,7
+C050,2025-08-18,Tablet (budget),3.0,200.0,credit card,600.0,600.0,2025,8
+C063,2025-06-30,Laptop (budget),2.0,600.0,credit card,1200.0,1200.0,2025,6
+C094,2025-07-31,Headphones (budget),2.0,50.0,credit card,100.0,100.0,2025,7
+C072,2025-08-09,Smartwatch (budget),2.0,100.0,online_payment,200.0,200.0,2025,8
+C074,2025-08-20,Smartwatch (premium),3.0,350.0,online_payment,1050.0,1050.0,2025,8
+C019,2025-06-21,Laptop (premium),1.0,1500.0,credit card,1500.0,1500.0,2025,6
+C082,2025-06-27,Laptop (medium),1.0,1000.0,credit card,1000.0,1000.0,2025,6
+C068,2025-07-31,Smartwatch (medium),3.0,200.0,cash,600.0,600.0,2025,7
+C080,2025-06-15,Laptop (budget),3.0,600.0,credit card,1800.0,1800.0,2025,6
+C078,2025-07-25,Smartwatch (budget),1.0,454.35729847494554,credit card,454.35729847494554,454.35729847494554,2025,7
+C096,2025-08-22,Smartwatch (medium),3.0,200.0,credit card,600.0,600.0,2025,8
+C055,2025-08-11,Tablet (budget),2.0,200.0,credit card,400.0,400.0,2025,8
+C083,2025-07-25,Smartwatch (medium),2.0,200.0,credit card,400.0,400.0,2025,7
+C044,2025-07-30,Smartwatch (budget),3.0,100.0,credit card,300.0,300.0,2025,7
+C082,2025-08-25,Tablet (premium),2.0,600.0,cash,1200.0,1200.0,2025,8
+C022,2025-08-04,Laptop (budget),1.0,600.0,online_payment,600.0,600.0,2025,8
+C024,2025-06-09,Tablet (medium),2.0,350.0,cash,700.0,700.0,2025,6
+C019,2025-06-11,Laptop (premium),2.0,1500.0,online_payment,3000.0,3000.0,2025,6
+C046,2025-06-12,Tablet (premium),3.0,600.0,credit card,1800.0,1800.0,2025,6
+C080,2025-06-15,Tablet (medium),1.0,350.0,credit card,350.0,350.0,2025,6
+C093,2025-06-23,Laptop (medium),3.0,1000.0,cash,3000.0,3000.0,2025,6
+C022,2025-06-20,Tablet (budget),2.0,200.0,cash,400.0,400.0,2025,6
+C079,2025-06-20,Phone (premium),2.0,800.0,online_payment,1600.0,1600.0,2025,6
+C090,2025-07-14,Phone (medium),1.0,500.0,cash,500.0,500.0,2025,7
+C004,2025-07-27,Laptop (budget),1.0,454.35729847494554,credit card,454.35729847494554,454.35729847494554,2025,7
+C065,2025-06-27,Smartwatch (budget),3.0,100.0,credit card,300.0,300.0,2025,6
+C069,2025-06-12,Laptop (medium),3.0,1000.0,cash,3000.0,3000.0,2025,6
+C083,2025-06-28,Smartwatch (premium),1.0,350.0,cash,350.0,350.0,2025,6
+C023,2025-06-18,Tablet (medium),3.0,350.0,credit card,1050.0,1050.0,2025,6
+C072,2025-08-15,Tablet (premium),1.0,600.0,cash,600.0,600.0,2025,8
+C056,2025-08-24,Tablet (medium),3.0,350.0,cash,1050.0,1050.0,2025,8
+C046,2025-08-21,Smartwatch (budget),3.0,100.0,cash,300.0,300.0,2025,8
+C043,2025-07-29,Phone (budget),2.0,300.0,credit card,600.0,600.0,2025,7
+C088,2025-06-17,Phone (budget),3.0,300.0,online_payment,900.0,900.0,2025,6
+C076,2025-06-03,Headphones (premium),1.0,200.0,credit card,200.0,200.0,2025,6
+C076,2025-07-26,Laptop (premium),2.0,1500.0,cash,3000.0,3000.0,2025,7
+C083,2025-07-19,Tablet (premium),1.0,600.0,credit card,600.0,600.0,2025,7
+C091,2025-06-22,Headphones (budget),1.0,50.0,cash,50.0,50.0,2025,6
+C083,2025-06-09,Laptop (premium),1.0,1500.0,credit card,1500.0,1500.0,2025,6
+C009,2025-07-04,Laptop (premium),2.0,1500.0,credit card,3000.0,3000.0,2025,7
+C012,2025-07-16,Smartwatch (premium),2.0,350.0,online_payment,700.0,700.0,2025,7
+C043,2025-08-14,Headphones (medium),2.0,100.0,online_payment,200.0,200.0,2025,8
+C054,2025-08-11,Smartwatch (medium),1.0,454.35729847494554,cash,454.35729847494554,454.35729847494554,2025,8
+C065,2025-08-05,Smartwatch (budget),2.0,100.0,cash,200.0,200.0,2025,8
+C084,2025-06-21,Phone (budget),2.0,300.0,credit card,600.0,600.0,2025,6
+C004,2025-06-12,Phone (budget),3.0,300.0,cash,900.0,900.0,2025,6
+C072,2025-08-05,Tablet (budget),2.0176600441501105,200.0,cash,403.5320088300221,403.5320088300221,2025,8
+C077,2025-08-02,Smartwatch (medium),2.0,200.0,cash,400.0,400.0,2025,8
+C042,2025-06-12,Laptop (premium),3.0,1500.0,credit card,4500.0,4500.0,2025,6
+C039,2025-07-08,Headphones (medium),3.0,100.0,cash,300.0,300.0,2025,7
+C051,2025-07-17,Tablet (premium),2.0,600.0,cash,1200.0,1200.0,2025,7
+C028,2025-08-10,Smartwatch (budget),3.0,100.0,cash,300.0,300.0,2025,8
+C085,2025-08-18,Laptop (medium),3.0,1000.0,online_payment,3000.0,3000.0,2025,8
+C049,2025-08-03,Laptop (premium),3.0,1500.0,credit card,4500.0,4500.0,2025,8
+C060,2025-06-08,Tablet (medium),2.0176600441501105,350.0,cash,706.1810154525386,706.1810154525386,2025,6
+C045,2025-08-17,Phone (premium),1.0,800.0,credit card,800.0,800.0,2025,8
+C080,2025-08-10,Tablet (medium),2.0,350.0,credit card,700.0,700.0,2025,8
+C060,2025-07-15,Phone (medium),1.0,500.0,cash,500.0,500.0,2025,7
+C033,2025-06-05,Laptop (budget),1.0,600.0,credit card,600.0,600.0,2025,6
+C047,2025-07-13,Tablet (medium),2.0,350.0,credit card,700.0,700.0,2025,7
+C046,2025-06-10,Tablet (premium),2.0,600.0,credit card,1200.0,1200.0,2025,6
+C003,2025-08-27,Tablet (medium),3.0,350.0,credit card,1050.0,1050.0,2025,8
+C043,2025-06-19,Headphones (budget),2.0,50.0,cash,100.0,100.0,2025,6
+C098,2025-06-13,Tablet (medium),2.0,350.0,credit card,700.0,700.0,2025,6
+C051,2025-08-25,Phone (budget),2.0,300.0,cash,600.0,600.0,2025,8
+C022,2025-08-27,Headphones (budget),3.0,50.0,credit card,150.0,150.0,2025,8
+C017,2025-07-09,Smartwatch (medium),1.0,200.0,online_payment,200.0,200.0,2025,7
+C082,2025-06-22,Phone (medium),2.0,500.0,online_payment,1000.0,1000.0,2025,6
+C093,2025-07-04,Headphones (premium),2.0,200.0,credit card,400.0,400.0,2025,7
+C043,2025-08-23,Laptop (premium),1.0,1500.0,credit card,1500.0,1500.0,2025,8
+C092,2025-06-07,Tablet (medium),1.0,350.0,credit card,350.0,350.0,2025,6
+C044,2025-08-07,Smartwatch (medium),3.0,200.0,online_payment,600.0,600.0,2025,8
+C012,2025-06-01,Headphones (medium),3.0,100.0,credit card,300.0,300.0,2025,6
+C017,2025-07-22,Tablet (medium),1.0,350.0,credit card,350.0,350.0,2025,7
+C036,2025-08-07,Laptop (medium),3.0,1000.0,credit card,3000.0,3000.0,2025,8
+C042,2025-07-01,Phone (medium),2.0176600441501105,500.0,cash,1008.8300220750552,1008.8300220750552,2025,7
+C047,2025-07-21,Laptop (medium),2.0,1000.0,credit card,2000.0,2000.0,2025,7
+C044,2025-06-18,Phone (budget),3.0,300.0,cash,900.0,900.0,2025,6
+C019,2025-08-05,Headphones (budget),2.0,50.0,cash,100.0,100.0,2025,8
+C029,2025-06-12,Headphones (budget),3.0,50.0,online_payment,150.0,150.0,2025,6
+C020,2025-06-25,Phone (budget),2.0176600441501105,300.0,online_payment,605.2980132450332,605.2980132450332,2025,6
+C055,2025-08-13,Laptop (budget),3.0,600.0,credit card,1800.0,1800.0,2025,8
+C018,2025-06-12,Smartwatch (budget),2.0,100.0,credit card,200.0,200.0,2025,6
+C020,2025-07-25,Phone (premium),3.0,800.0,cash,2400.0,2400.0,2025,7
+C034,2025-08-16,Smartwatch (budget),2.0,100.0,online_payment,200.0,200.0,2025,8
+C036,2025-06-14,Laptop (medium),2.0,1000.0,credit card,2000.0,2000.0,2025,6
+C014,2025-08-17,Tablet (budget),3.0,200.0,cash,600.0,600.0,2025,8
+C083,2025-08-05,Headphones (premium),3.0,200.0,cash,600.0,600.0,2025,8
+C040,2025-08-07,Headphones (medium),2.0,100.0,cash,200.0,200.0,2025,8
+C073,2025-07-04,Phone (premium),1.0,800.0,credit card,800.0,800.0,2025,7
+C088,2025-06-28,Smartwatch (premium),1.0,350.0,credit card,350.0,350.0,2025,6
+C069,2025-07-28,Headphones (budget),2.0176600441501105,50.0,credit card,100.88300220750553,100.88300220750553,2025,7
+C036,2025-06-02,Smartwatch (budget),2.0176600441501105,100.0,cash,201.76600441501105,201.76600441501105,2025,6
+C061,2025-06-20,Laptop (medium),1.0,1000.0,credit card,1000.0,1000.0,2025,6
+C046,2025-08-11,Phone (premium),3.0,800.0,online_payment,2400.0,2400.0,2025,8
+C100,2025-07-02,Headphones (premium),1.0,200.0,cash,200.0,200.0,2025,7
+C079,2025-08-04,Phone (medium),3.0,500.0,credit card,1500.0,1500.0,2025,8
+C039,2025-06-18,Phone (medium),1.0,500.0,online_payment,500.0,500.0,2025,6
+C086,2025-08-17,Tablet (premium),2.0,600.0,credit card,1200.0,1200.0,2025,8
+C089,2025-07-26,Laptop (medium),3.0,1000.0,credit card,3000.0,3000.0,2025,7
+C077,2025-06-27,Headphones (budget),3.0,50.0,cash,150.0,150.0,2025,6
+C021,2025-08-23,Phone (premium),1.0,800.0,credit card,800.0,800.0,2025,8
+C075,2025-08-15,Headphones (medium),1.0,100.0,cash,100.0,100.0,2025,8
+C012,2025-06-29,Headphones (medium),1.0,100.0,credit card,100.0,100.0,2025,6
+C053,2025-07-08,Tablet (medium),3.0,350.0,credit card,1050.0,1050.0,2025,7
+C058,2025-07-25,Tablet (premium),2.0,600.0,online_payment,1200.0,1200.0,2025,7
+C043,2025-06-03,Phone (premium),1.0,800.0,credit card,800.0,800.0,2025,6
+C054,2025-08-27,Smartwatch (premium),2.0176600441501105,350.0,credit card,706.1810154525386,706.1810154525386,2025,8
+C026,2025-06-19,Phone (medium),2.0,500.0,credit card,1000.0,1000.0,2025,6
+C019,2025-07-05,Laptop (budget),3.0,600.0,credit card,1800.0,1800.0,2025,7
+C090,2025-07-17,Phone (premium),2.0,800.0,cash,1600.0,1600.0,2025,7
+C010,2025-08-02,Phone (premium),3.0,800.0,online_payment,2400.0,2400.0,2025,8
+C100,2025-07-14,Smartwatch (budget),1.0,100.0,credit card,100.0,100.0,2025,7
+C043,2025-07-25,Tablet (budget),1.0,200.0,credit card,200.0,200.0,2025,7
+C081,2025-06-02,Laptop (budget),3.0,600.0,cash,1800.0,1800.0,2025,6
+C005,2025-07-10,Smartwatch (budget),3.0,100.0,cash,300.0,300.0,2025,7
+C013,2025-08-14,Smartwatch (medium),2.0,200.0,online_payment,400.0,400.0,2025,8
+C035,2025-06-27,Laptop (premium),3.0,1500.0,cash,4500.0,4500.0,2025,6
+C009,2025-06-21,Tablet (budget),3.0,454.35729847494554,cash,1363.0718954248366,1363.0718954248366,2025,6
+C003,2025-08-19,Smartwatch (budget),3.0,100.0,credit card,300.0,300.0,2025,8
+C091,2025-08-05,Tablet (medium),3.0,350.0,cash,1050.0,1050.0,2025,8
+C056,2025-07-24,Smartwatch (budget),2.0176600441501105,100.0,credit card,201.76600441501105,201.76600441501105,2025,7
+C043,2025-08-05,Headphones (budget),3.0,454.35729847494554,credit card,1363.0718954248366,1363.0718954248366,2025,8
+C050,2025-06-01,Headphones (budget),1.0,50.0,online_payment,50.0,50.0,2025,6
+C040,2025-06-13,Smartwatch (premium),2.0,350.0,cash,700.0,700.0,2025,6
+C022,2025-08-12,Tablet (budget),2.0176600441501105,200.0,credit card,403.5320088300221,403.5320088300221,2025,8
+C073,2025-06-18,Laptop (premium),2.0,1500.0,cash,3000.0,3000.0,2025,6
+C041,2025-07-07,Headphones (budget),1.0,50.0,credit card,50.0,50.0,2025,7
+C077,2025-08-28,Tablet (medium),1.0,350.0,online_payment,350.0,350.0,2025,8
+C029,2025-07-18,Smartwatch (medium),2.0,200.0,cash,400.0,400.0,2025,7
+C085,2025-08-19,Phone (premium),2.0,800.0,credit card,1600.0,1600.0,2025,8
+C048,2025-07-12,Phone (medium),3.0,500.0,cash,1500.0,1500.0,2025,7
+C043,2025-08-17,Smartwatch (premium),3.0,350.0,credit card,1050.0,1050.0,2025,8
+C022,2025-06-30,Phone (medium),2.0,454.35729847494554,credit card,908.7145969498911,908.7145969498911,2025,6
+C060,2025-06-26,Tablet (premium),1.0,600.0,credit card,600.0,600.0,2025,6
+C010,2025-08-25,Laptop (medium),2.0,1000.0,credit card,2000.0,2000.0,2025,8
+C089,2025-07-28,Smartwatch (premium),2.0,350.0,cash,700.0,700.0,2025,7
+C018,2025-06-10,Tablet (premium),1.0,600.0,credit card,600.0,600.0,2025,6
+C088,2025-08-06,Laptop (budget),3.0,600.0,cash,1800.0,1800.0,2025,8
+C010,2025-07-09,Tablet (premium),2.0,600.0,credit card,1200.0,1200.0,2025,7
+C036,2025-08-25,Laptop (budget),3.0,600.0,credit card,1800.0,1800.0,2025,8
+C040,2025-06-15,Smartwatch (medium),1.0,200.0,credit card,200.0,200.0,2025,6
+C064,2025-07-26,Phone (premium),1.0,800.0,cash,800.0,800.0,2025,7
+C076,2025-06-25,Headphones (budget),2.0,50.0,cash,100.0,100.0,2025,6
+C047,2025-07-13,Laptop (medium),3.0,1000.0,credit card,3000.0,3000.0,2025,7
+C034,2025-06-24,Tablet (premium),2.0,600.0,credit card,1200.0,1200.0,2025,6
+C058,2025-08-27,Smartwatch (budget),3.0,100.0,credit card,300.0,300.0,2025,8
+C043,2025-07-03,Smartwatch (premium),3.0,350.0,cash,1050.0,1050.0,2025,7
+C095,2025-06-07,Headphones (budget),2.0,50.0,online_payment,100.0,100.0,2025,6
+C003,2025-08-31,Headphones (budget),2.0,50.0,cash,100.0,100.0,2025,8
+C042,2025-06-30,Smartwatch (premium),1.0,350.0,credit card,350.0,350.0,2025,6
+C084,2025-08-25,Smartwatch (premium),2.0,350.0,credit card,700.0,700.0,2025,8
+C086,2025-06-06,Smartwatch (premium),1.0,350.0,credit card,350.0,350.0,2025,6
+C096,2025-06-30,Tablet (budget),1.0,200.0,credit card,200.0,200.0,2025,6
+C043,2025-07-18,Tablet (medium),2.0,350.0,credit card,700.0,700.0,2025,7
+C092,2025-08-24,Smartwatch (premium),2.0,350.0,online_payment,700.0,700.0,2025,8
+C016,2025-08-10,Laptop (medium),2.0,1000.0,cash,2000.0,2000.0,2025,8
+C004,2025-08-02,Tablet (budget),2.0,200.0,credit card,400.0,400.0,2025,8
+C050,2025-06-20,Laptop (premium),3.0,1500.0,cash,4500.0,4500.0,2025,6
+C029,2025-08-06,Tablet (medium),1.0,350.0,cash,350.0,350.0,2025,8
+C001,2025-07-01,Tablet (budget),3.0,200.0,credit card,600.0,600.0,2025,7
+C040,2025-06-20,Tablet (premium),3.0,600.0,cash,1800.0,1800.0,2025,6
+C094,2025-08-24,Phone (medium),2.0,500.0,credit card,1000.0,1000.0,2025,8
+C033,2025-06-18,Tablet (premium),1.0,600.0,credit card,600.0,600.0,2025,6
+C065,2025-07-05,Smartwatch (premium),3.0,454.35729847494554,cash,1363.0718954248366,1363.0718954248366,2025,7
+C094,2025-08-16,Laptop (budget),2.0,600.0,credit card,1200.0,1200.0,2025,8
+C064,2025-06-05,Laptop (budget),2.0,600.0,cash,1200.0,1200.0,2025,6
+C043,2025-08-03,Headphones (budget),3.0,50.0,credit card,150.0,150.0,2025,8
+C075,2025-07-15,Smartwatch (medium),3.0,200.0,cash,600.0,600.0,2025,7
+C043,2025-08-12,Laptop (premium),3.0,1500.0,cash,4500.0,4500.0,2025,8
+C017,2025-08-21,Phone (budget),1.0,300.0,online_payment,300.0,300.0,2025,8
+C084,2025-07-17,Tablet (medium),1.0,350.0,credit card,350.0,350.0,2025,7
+C074,2025-08-26,Smartwatch (budget),1.0,100.0,cash,100.0,100.0,2025,8
+C043,2025-07-16,Tablet (premium),3.0,600.0,cash,1800.0,1800.0,2025,7
+C047,2025-08-17,Headphones (medium),3.0,100.0,credit card,300.0,300.0,2025,8
+C037,2025-08-05,Headphones (medium),2.0,100.0,cash,200.0,200.0,2025,8
+C002,2025-06-08,Smartwatch (premium),2.0,350.0,credit card,700.0,700.0,2025,6
+C005,2025-08-04,Smartwatch (medium),2.0,200.0,cash,400.0,400.0,2025,8
+C024,2025-07-05,Tablet (premium),1.0,600.0,credit card,600.0,600.0,2025,7
+C022,2025-07-14,Phone (premium),3.0,800.0,cash,2400.0,2400.0,2025,7
+C094,2025-08-16,Laptop (medium),3.0,1000.0,credit card,3000.0,3000.0,2025,8
+C043,2025-08-17,Tablet (budget),2.0,200.0,cash,400.0,400.0,2025,8
+C036,2025-07-25,Tablet (medium),2.0,350.0,online_payment,700.0,700.0,2025,7
+C004,2025-06-28,Laptop (budget),2.0,600.0,cash,1200.0,1200.0,2025,6
+C086,2025-06-12,Phone (budget),2.0,300.0,cash,600.0,600.0,2025,6
+C088,2025-07-31,Smartwatch (budget),3.0,100.0,credit card,300.0,300.0,2025,7
+C087,2025-06-05,Laptop (premium),3.0,1500.0,credit card,4500.0,4500.0,2025,6
+C028,2025-07-20,Tablet (premium),2.0,600.0,credit card,1200.0,1200.0,2025,7
+C067,2025-07-02,Tablet (budget),2.0,200.0,cash,400.0,400.0,2025,7
+C076,2025-08-24,Laptop (medium),2.0,1000.0,online_payment,2000.0,2000.0,2025,8
+C014,2025-07-31,Smartwatch (budget),2.0176600441501105,100.0,credit card,201.76600441501105,201.76600441501105,2025,7
+C013,2025-08-16,Phone (premium),1.0,800.0,cash,800.0,800.0,2025,8
+C078,2025-08-10,Smartwatch (budget),2.0176600441501105,100.0,online_payment,201.76600441501105,201.76600441501105,2025,8
+C030,2025-06-17,Laptop (budget),3.0,600.0,online_payment,1800.0,1800.0,2025,6
+C061,2025-08-30,Headphones (medium),1.0,100.0,credit card,100.0,100.0,2025,8
+C087,2025-06-19,Tablet (medium),3.0,350.0,online_payment,1050.0,1050.0,2025,6
+C084,2025-07-08,Phone (premium),3.0,800.0,cash,2400.0,2400.0,2025,7
+C024,2025-06-16,Phone (medium),3.0,500.0,credit card,1500.0,1500.0,2025,6
+C074,2025-07-01,Smartwatch (medium),3.0,200.0,online_payment,600.0,600.0,2025,7
+C067,2025-07-02,Smartwatch (medium),1.0,200.0,credit card,200.0,200.0,2025,7
+C048,2025-07-10,Tablet (budget),2.0,200.0,credit card,400.0,400.0,2025,7
+C053,2025-08-04,Smartwatch (premium),3.0,350.0,credit card,1050.0,1050.0,2025,8
+C031,2025-07-21,Phone (premium),2.0,800.0,cash,1600.0,1600.0,2025,7
+C078,2025-07-13,Tablet (medium),1.0,350.0,cash,350.0,350.0,2025,7
+C033,2025-07-20,Headphones (premium),1.0,200.0,cash,200.0,200.0,2025,7
+C042,2025-06-05,Phone (budget),1.0,300.0,online_payment,300.0,300.0,2025,6
+C030,2025-06-30,Laptop (budget),1.0,600.0,online_payment,600.0,600.0,2025,6
+C075,2025-06-02,Tablet (medium),3.0,350.0,credit card,1050.0,1050.0,2025,6
+C031,2025-06-15,Laptop (premium),2.0,1500.0,online_payment,3000.0,3000.0,2025,6
+C047,2025-08-13,Laptop (premium),2.0176600441501105,1500.0,cash,3026.4900662251657,3026.4900662251657,2025,8
+C035,2025-07-14,Smartwatch (premium),1.0,350.0,credit card,350.0,350.0,2025,7
+C023,2025-06-26,Headphones (budget),2.0,50.0,cash,100.0,100.0,2025,6
+C037,2025-07-25,Smartwatch (medium),2.0176600441501105,200.0,cash,403.5320088300221,403.5320088300221,2025,7
+C044,2025-07-13,Phone (medium),1.0,500.0,credit card,500.0,500.0,2025,7
+C099,2025-08-12,Phone (premium),1.0,800.0,cash,800.0,800.0,2025,8
+C086,2025-08-21,Headphones (medium),3.0,100.0,credit card,300.0,300.0,2025,8
+C014,2025-08-31,Headphones (medium),3.0,100.0,online_payment,300.0,300.0,2025,8
+C053,2025-06-16,Tablet (medium),1.0,350.0,cash,350.0,350.0,2025,6
+C092,2025-07-25,Smartwatch (medium),3.0,200.0,online_payment,600.0,600.0,2025,7
+C094,2025-07-16,Phone (premium),1.0,800.0,credit card,800.0,800.0,2025,7
+C030,2025-06-14,Smartwatch (budget),2.0,100.0,online_payment,200.0,200.0,2025,6
+C045,2025-08-30,Laptop (premium),2.0,1500.0,cash,3000.0,3000.0,2025,8
+C058,2025-07-15,Laptop (premium),3.0,1500.0,cash,4500.0,4500.0,2025,7
+C053,2025-08-26,Tablet (medium),2.0,350.0,credit card,700.0,700.0,2025,8
+C004,2025-06-24,Smartwatch (medium),3.0,200.0,cash,600.0,600.0,2025,6
+C028,2025-07-07,Smartwatch (medium),1.0,200.0,cash,200.0,200.0,2025,7
+C090,2025-08-18,Laptop (budget),3.0,600.0,credit card,1800.0,1800.0,2025,8
+C009,2025-07-06,Tablet (premium),1.0,600.0,cash,600.0,600.0,2025,7
+C036,2025-08-12,Smartwatch (budget),3.0,100.0,credit card,300.0,300.0,2025,8
+C017,2025-08-18,Headphones (medium),1.0,100.0,online_payment,100.0,100.0,2025,8
+C060,2025-06-30,Laptop (budget),2.0,600.0,online_payment,1200.0,1200.0,2025,6
+C043,2025-06-01,Headphones (premium),1.0,200.0,online_payment,200.0,200.0,2025,6
+C039,2025-08-29,Phone (medium),2.0,500.0,cash,1000.0,1000.0,2025,8
+C043,2025-07-02,Tablet (premium),2.0,600.0,cash,1200.0,1200.0,2025,7
+C048,2025-06-21,Tablet (medium),1.0,350.0,online_payment,350.0,350.0,2025,6
+C046,2025-06-03,Tablet (premium),2.0,600.0,online_payment,1200.0,1200.0,2025,6
+C024,2025-08-11,Tablet (medium),2.0,350.0,cash,700.0,700.0,2025,8
+C088,2025-08-21,Phone (medium),2.0,500.0,credit card,1000.0,1000.0,2025,8
+C021,2025-07-20,Tablet (premium),2.0,600.0,credit card,1200.0,1200.0,2025,7
+C092,2025-07-16,Tablet (medium),3.0,350.0,cash,1050.0,1050.0,2025,7
+C070,2025-07-05,Smartwatch (budget),3.0,454.35729847494554,credit card,1363.0718954248366,1363.0718954248366,2025,7
+C059,2025-08-31,Smartwatch (premium),2.0,350.0,cash,700.0,700.0,2025,8
+C056,2025-07-13,Phone (budget),2.0,300.0,cash,600.0,600.0,2025,7
+C051,2025-07-24,Laptop (medium),1.0,1000.0,online_payment,1000.0,1000.0,2025,7
+C073,2025-07-02,Smartwatch (budget),2.0,100.0,online_payment,200.0,200.0,2025,7
